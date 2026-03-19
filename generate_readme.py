@@ -72,7 +72,10 @@ def generate_table(solutions):
     table += "|---|--------------|----------|------|\n"
 
     for _, number, name, lang, folder in solutions:
-        table += f"| {number} | {name} | {lang} | [FILE]({folder}) |\n"
+        # Encode spaces so GitHub recognizes it as a valid link
+        encoded_folder = folder.replace(" ", "%20")
+
+        table += f"| {number} | {name} | {lang} | [FILE]({encoded_folder}) |\n"
 
     return table
 
