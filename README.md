@@ -33,14 +33,14 @@ Solutions are organized automatically based on LeetCode problem metadata. Each p
 ## Problem Table
 
 <!-- START_TABLE -->
-| Problem Name | Language | File |
-|-------------|----------|------|
-| 1 Two Sum | Python | [1 Two Sum/1two-sum.py](1 Two Sum/1two-sum.py) |
-| 9 Palindrome Number | Java | [9 Palindrome Number/9palindrome-number.java](9 Palindrome Number/9palindrome-number.java) |
-| 175 Combine Two Tables | SQL | [175 Combine Two Tables/175combine-two-tables.sql](175 Combine Two Tables/175combine-two-tables.sql) |
-| 282 Expression Add Operators | Python | [282 Expression Add Operators/282expression-add-operators.py](282 Expression Add Operators/282expression-add-operators.py) |
-| 338 Counting Bits | Python | [338 Counting Bits/338counting-bits.py](338 Counting Bits/338counting-bits.py) |
-| 1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Python | [1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
+| # | Problem Name | Language | File |
+|---|--------------|----------|------|
+| 1 | Two Sum | Python | [FILE](1 Two Sum) |
+| 9 | Palindrome Number | Java | [FILE](9 Palindrome Number) |
+| 175 | Combine Two Tables | SQL | [FILE](175 Combine Two Tables) |
+| 282 | Expression Add Operators | Python | [FILE](282 Expression Add Operators) |
+| 338 | Counting Bits | Python | [FILE](338 Counting Bits) |
+| 1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Python | [FILE](1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit) |
 
 <!-- END_TABLE -->
 
