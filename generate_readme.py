@@ -67,6 +67,33 @@ def get_solutions():
 
     return sorted(solutions, key=lambda x: x[0])
 
+def generate_table(solutions):
+    table = "| # | Problem Name | Language | File |\n"
+    table += "|---|--------------|----------|------|\n"
+
+    for _, number, name, lang, folder in solutions:
+        table += f"| {number} | {name} | {lang} | [FILE]({folder}) |\n"
+
+    return table
+
+def update_readme(table):
+    with open(README_FILE, "r") as f:
+        content = f.read()
+
+    start = "<!-- START_TABLE -->"
+    end = "<!-- END_TABLE -->"
+
+    if start not in content or end not in content:
+        print("ERROR: README missing table markers")
+        return
+
+    before = content.split(start)[0] + start + "\n"
+    after = "\n" + end + content.split(end)[1]
+
+    new_content = before + table + after
+
+    with open(README_FILE, "w") as f:
+        f.write(new_content)
 
 if __name__ == "__main__":
     solutions = get_solutions()
