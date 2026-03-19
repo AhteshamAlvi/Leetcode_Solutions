@@ -35,12 +35,12 @@ Solutions are organized automatically based on LeetCode problem metadata. Each p
 <!-- START_TABLE -->
 | Problem Name | Language | File |
 |-------------|----------|------|
-| 1438Longest-Continuous-Subarray-With-Absolute-Diff-Less-Than-Or-Equal-To-Limit | py | [./1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](./1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
-| 1Two-Sum | py | [./1 Two Sum/1two-sum.py](./1 Two Sum/1two-sum.py) |
-| 282Expression-Add-Operators | py | [./282 Expression Add Operators/282expression-add-operators.py](./282 Expression Add Operators/282expression-add-operators.py) |
-| 338Counting-Bits | py | [./338 Counting Bits/338counting-bits.py](./338 Counting Bits/338counting-bits.py) |
-| 9Palindrome-Number | java | [./9 Palindrome Number/9palindrome-number.java](./9 Palindrome Number/9palindrome-number.java) |
-| Generate Readme | py | [./generate_readme.py](./generate_readme.py) |
+| 1 Two Sum | Python | [1 Two Sum/1two-sum.py](1 Two Sum/1two-sum.py) |
+| 9 Palindrome Number | Java | [9 Palindrome Number/9palindrome-number.java](9 Palindrome Number/9palindrome-number.java) |
+| 175 Combine Two Tables | SQL | [175 Combine Two Tables/175combine-two-tables.sql](175 Combine Two Tables/175combine-two-tables.sql) |
+| 282 Expression Add Operators | Python | [282 Expression Add Operators/282expression-add-operators.py](282 Expression Add Operators/282expression-add-operators.py) |
+| 338 Counting Bits | Python | [338 Counting Bits/338counting-bits.py](338 Counting Bits/338counting-bits.py) |
+| 1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | Python | [1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py](1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit/1438longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.py) |
 
 <!-- END_TABLE -->
 
