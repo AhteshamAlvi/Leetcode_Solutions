@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Load environment (so glsync is available)
+source ~/.bashrc
+
 # ---- CONFIG ----
 REPO_URL="https://github.com/AhteshamAlvi/Leetcode_Solutions.git"
 
