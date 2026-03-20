@@ -37,6 +37,7 @@ Solutions are organized automatically based on LeetCode problem metadata. Each p
 |---|--------------|----------|------|
 | 1 | Two Sum | Python | [FILE](1%20Two%20Sum) |
 | 9 | Palindrome Number | Java | [FILE](9%20Palindrome%20Number) |
+| 13 | Roman to Integer | Python | [FILE](13%20Roman%20to%20Integer) |
 | 175 | Combine Two Tables | SQL | [FILE](175%20Combine%20Two%20Tables) |
 | 282 | Expression Add Operators | Python | [FILE](282%20Expression%20Add%20Operators) |
 | 338 | Counting Bits | Python | [FILE](338%20Counting%20Bits) |
